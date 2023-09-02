@@ -25,5 +25,6 @@
 
     if(distanciaAteOEvento < 0){
         clearInterval(contaAsHoras);
+        document.getElementById('contime').innerHTML = 'Evento expirado';
     }
 },1000)
