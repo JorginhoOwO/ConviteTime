@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.theader{
+    width: 100vw;
+    height: 50vh;
+    background-color: #9b1d94;
+}
+
+.birthday{
+    display: flex;
+    justify-content: center ;
+    margin: 0 auto;
+    margin-top: 12.5vh;
+    width: 250px;
+    height: 250px;
+    background-color: #9b1d94;
+    box-shadow: 0 10px 25px black;
+    border-radius: 12px;
+
+    &__text{
+        font-size: 12px; 
+        color: #f8f8f8;
+        display: flex;
+        align-items: center;
+
+        &__button{
+            display: flex;
+            justify-content: center;
+            margin-top: 32px;
+
+            button{
+                padding: 8px;
+                border: none;
+                border-radius: 12px;
+                background-color: #ffffff;
+
+                cursor: pointer;
+            }
+        }
+    }
+}
