@@ -22,4 +22,8 @@
     console. log (segundosAteOEvento);
 
     document.getElementById('contime').innerHTML = `${diasAteOEvento}d ${horasAteOEvento}h ${minutosAteOEvento}m ${segundosAteOEvento}s`
+
+    if(distanciaAteOEvento < 0){
+        clearInterval(contaAsHoras);
+    }
 },1000)
