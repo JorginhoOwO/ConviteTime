@@ -24,7 +24,7 @@
 92C:\studyJS\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133379826277332761 0
 55C:\studyJS\node_modules\@parcel\workers\src\cpuCount.js133379826278611572 0
 46C:\studyJS\node_modules\@parcel\optimizer-svgo133379826274758968 1
-15C:\studyJS\dist133380887842530873 1
+15C:\studyJS\dist133380921428867913 1
 75C:\studyJS\node_modules\@babel\code-frame\node_modules\ansi-styles\index.js133379826273702591 0
 34C:\studyJS\node_modules\source-map133379826279448302 1
 47C:\studyJS\node_modules\normalize-path\index.js133379827321274414 0
@@ -67,7 +67,7 @@
 43C:\studyJS\node_modules\htmlparser2\LICENSE133379826273100847 0
 56C:\studyJS\node_modules\term-size\vendor\macos\term-size133379826274967155 0
 28C:\studyJS\node_modules\.bin133379827322103361 1
-25C:\studyJS\src\index.html133379960041438776 0
+25C:\studyJS\src\index.html133380918512494305 0
 49C:\studyJS\node_modules\@parcel\packager-html\src133379826274283035 1
 43C:\studyJS\node_modules\type-fest\base.d.ts133379826276150702 0
 22C:\studyJS\src\main.js133379958207122373 0
@@ -75,7 +75,7 @@
 37C:\studyJS\node_modules\dotenv-expand133379826275513698 1
 40C:\studyJS\node_modules\braces\README.md133379826275167147 0
 52C:\studyJS\node_modules\css-what\lib\es\stringify.js133379826277193536 0
-24C:\studyJS\src\main.scss133380887842339047 0
+24C:\studyJS\src\main.scss133380921428653028 0
 69C:\studyJS\node_modules\caniuse-lite\data\features\text-decoration.js133379826306022095 0
 42C:\studyJS\node_modules\mdn-data\README.md133379826281934372 0
 59C:\studyJS\node_modules\utility-types\dist\utility-types.js133379826275847214 0
@@ -4024,7 +4024,7 @@
 55C:\studyJS\node_modules\caniuse-lite\data\regions\MH.js133379826304507543 0
 80C:\studyJS\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133379826284023980 1
 55C:\studyJS\node_modules\caniuse-lite\data\regions\ML.js133379826304531502 0
-33C:\studyJS\dist\index.de158e3a.js133379961815564830 0
+33C:\studyJS\dist\index.de158e3a.js133380900607005102 0
 55C:\studyJS\node_modules\caniuse-lite\data\regions\MM.js133379826304545311 0
 55C:\studyJS\node_modules\caniuse-lite\data\regions\MN.js133379826304555442 0
 53C:\studyJS\node_modules\@swc\helpers\src\_extends.mjs133379826299511260 0
@@ -4414,7 +4414,7 @@
 68C:\studyJS\node_modules\caniuse-lite\data\features\object-entries.js133379826304849299 0
 63C:\studyJS\node_modules\caniuse-lite\data\features\objectrtc.js133379826304849299 0
 57C:\studyJS\node_modules\caniuse-lite\data\features\ogv.js133379826304849299 0
-27C:\studyJS\dist\main.js.map133379961815655037 0
+27C:\studyJS\dist\main.js.map133380900607058114 0
 85C:\studyJS\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi108.node133379826275536508 0
 72C:\studyJS\node_modules\caniuse-lite\data\features\orientation-sensor.js133379826304948635 0
 76C:\studyJS\node_modules\caniuse-lite\data\features\page-transition-events.js133379826305004906 0
@@ -4600,7 +4600,7 @@
 75C:\studyJS\node_modules\@swc\helpers\_\_class_static_private_field_spec_get133379826291531563 1
 73C:\studyJS\node_modules\@swc\helpers\_\_class_static_private_field_update133379826291566776 1
 59C:\studyJS\node_modules\@swc\helpers\_\_non_iterable_spread133379826292295123 1
-35C:\studyJS\dist\studyJS.59712999.js133379961815564830 0
+35C:\studyJS\dist\studyJS.59712999.js133380900606995037 0
 71C:\studyJS\node_modules\@swc\helpers\_\_class_static_private_method_get133379826291597289 1
 52C:\studyJS\node_modules\@swc\helpers\_\_create_class133379826291627990 1
 47C:\studyJS\node_modules\@swc\helpers\_\_extends133379826291872509 1
@@ -4820,7 +4820,7 @@
 72C:\studyJS\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133379826287780332 0
 58C:\studyJS\node_modules\@parcel\core\lib\ReporterRunner.js133379826288294756 0
 71C:\studyJS\node_modules\@swc\helpers\esm\_class_apply_descriptor_get.js133379826287860241 0
-37C:\studyJS\dist\index.de158e3a.js.map133379961815655037 0
+37C:\studyJS\dist\index.de158e3a.js.map133380900607058114 0
 85C:\studyJS\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo-node.js133379826286235280 0
 63C:\studyJS\node_modules\@parcel\utils\test\input\config\.testrc133379826273523622 0
 61C:\studyJS\node_modules\@swc\helpers\esm\_class_call_check.js133379826287985564 0
@@ -5661,7 +5661,7 @@
 90C:\studyJS\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Atrule.js133379826278360071 0
 78C:\studyJS\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133379826273968395 0
 93C:\studyJS\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Dimension.js133379826281828431 0
-24C:\studyJS\dist\main.css133380887842510674 0
+24C:\studyJS\dist\main.css133380921428837469 0
 65C:\studyJS\node_modules\@parcel\core\src\requests\AssetRequest.js133379826282108838 0
 94C:\studyJS\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Percentage.js133379826282836506 0
 89C:\studyJS\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Value.js133379826284992023 0
@@ -6091,8 +6091,8 @@
 55C:\studyJS\node_modules\.bin\update-browserslist-db.cmd133379826307191096 0
 25C:\studyJS\img\aniver.jpg133379907697937709 0
 36C:\studyJS\dist\aniver1.7a1dda09.jpg133379959959959786 0
-26C:\studyJS\dist\index.html133379961815514777 0
-28C:\studyJS\dist\main.css.map133380887842530873 0
-23C:\studyJS\dist\main.js133379961815600110 0
-39C:\studyJS\dist\studyJS.59712999.js.map133379961815655037 0
+26C:\studyJS\dist\index.html133380918512670994 0
+28C:\studyJS\dist\main.css.map133380921428857875 0
+23C:\studyJS\dist\main.js133380900606995037 0
+39C:\studyJS\dist\studyJS.59712999.js.map133380900607058114 0
 48C:\studyJS\dist\studyJS.59712999.js.map.18548.4m133379949911459386 0
